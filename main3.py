@@ -639,3 +639,4 @@ if __name__ == '__main__':
         train(args)
     elif args.mode == 'inference':
         inference(args)
+print("test")
